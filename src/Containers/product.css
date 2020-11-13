@@ -1,0 +1,36 @@
+.product{
+    max-width: 95%;
+    min-width: 95%;
+    border: 1px solid lightgray;
+    padding: 5px;
+    border-radius: 2px;
+    max-height: 95%;
+    min-height: 95%;
+    background-color: #fff;
+    overflow: hidden;
+}
+
+.product:hover{
+    text-decoration: none;
+}
+
+.product__title{
+    font-weight: bolder;
+    margin: 5px;
+    color: black;
+}
+.product__description{
+    color: black;
+}
+.product__phone{
+    color: black;
+}
+.product__price{
+    color: black;
+}
+.product__image{
+    width: 100%;
+    object-fit: contain;
+    max-height: 200px;
+    min-height: 200px;
+}

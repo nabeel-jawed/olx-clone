@@ -1,0 +1,29 @@
+ 
+.login__logo{
+    margin-left: 30%;
+}
+.login p{
+    text-align: center;
+    font-size: 20px;
+    color: gray;
+}
+.login_btnConnect{
+    padding: 10px;
+    width: 90%;
+    margin: 10px 20px;
+    border: 3px solid black;
+    font-weight: bolder;
+}
+.login__input{
+    width: 90%;
+    border: 3px solid black;
+    padding: 10px;
+    margin: 10px 20px;
+    border-radius: 5px;
+}
+.login__btnSingup{
+    padding: 5px;
+    background-color: #f1f1f1;
+    border: 3px solid black;
+    border-radius: 5px;
+}

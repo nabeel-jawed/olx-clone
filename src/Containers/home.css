@@ -1,0 +1,14 @@
+
+.app__products{
+ 
+    padding: 10px;
+    width: 80%;
+    margin: 10px auto;
+    display: grid;
+    grid-template-columns: repeat(4, 2fr);
+    grid-template-rows: 400px 400px;
+    grid-gap: 10;
+}
+.app__products Link:hover{
+text-decoration: none;
+}
